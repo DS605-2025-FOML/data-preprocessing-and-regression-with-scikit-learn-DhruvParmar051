@@ -2,4 +2,5 @@ pandas
 numpy
 # pickle
 scikit-learn
-
+seaborn
+matplotlib
